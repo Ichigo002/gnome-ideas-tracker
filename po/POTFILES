@@ -1,0 +1,6 @@
+data/org.wiktor.IdeaTracker.desktop.in
+data/org.wiktor.IdeaTracker.metainfo.xml.in
+data/org.wiktor.IdeaTracker.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
